@@ -1,0 +1,18 @@
+c:\users\yiuceve\documents\visual studio 2012\Projects\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\yiuceve\Documents\Visual Studio 2012\Projects\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\yiuceve\Documents\Visual Studio 2012\Projects\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\yiuceve\Documents\Visual Studio 2012\Projects\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\yiuceve\Documents\Visual Studio 2012\Projects\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\yiuceve\Documents\Visual Studio 2012\Projects\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\yiuceve\Documents\Visual Studio 2012\Projects\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\yiuceve\Documents\Visual Studio 2012\Projects\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\yiuceve\Documents\Visual Studio 2012\Projects\Agenda\Agenda\obj\Debug\Agenda.pdb
+F:\EstructuraDeDatos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+F:\EstructuraDeDatos\Agenda\Agenda\obj\Debug\Agenda.exe
+F:\EstructuraDeDatos\Agenda\Agenda\obj\Debug\Agenda.pdb
+F:\EstructuraDeDatos\Agenda\Agenda\bin\Debug\Agenda.exe
+F:\EstructuraDeDatos\Agenda\Agenda\bin\Debug\Agenda.pdb
+F:\EstructuraDeDatos\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+F:\EstructuraDeDatos\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+F:\EstructuraDeDatos\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+F:\EstructuraDeDatos\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache

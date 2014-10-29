@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda", "Agenda\Agenda.csproj", "{BEADCA17-CB44-4EF8-8ACA-A33E3837BB12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEADCA17-CB44-4EF8-8ACA-A33E3837BB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEADCA17-CB44-4EF8-8ACA-A33E3837BB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEADCA17-CB44-4EF8-8ACA-A33E3837BB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEADCA17-CB44-4EF8-8ACA-A33E3837BB12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
